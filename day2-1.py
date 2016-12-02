@@ -1,4 +1,4 @@
-f = open('input.txt','r')
+f = open('inputDay2.txt','r')
 sum = 0
 for i in f.readlines():
 	l, w, h = i.split("x")
